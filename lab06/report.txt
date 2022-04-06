@@ -1,0 +1,19 @@
+Faisal Alzahrany
+
+1-
+To divide the list to two parts and get rid of the part that we don’t need to check it. If we selected the the first item it’s going to take more time to do the algorithm.
+
+2-
+A- a case the when want find the k^th smallest number and the list has many elements of this number
+B- a case when the length of the list is 1
+
+3-
+store_location.py:
+elapsed time:  0.02770709991455078
+elapsed time:  0.02663898468017578
+elapsed time:  0.02599191665649414
+
+select_median.py:
+elapsed time:  0.014926910400390625
+elapsed time:  0.013489007949829102
+elapsed time:  0.014496088027954102
